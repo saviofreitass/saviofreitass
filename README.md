@@ -42,6 +42,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/saviofreitass/saviofreitass/output/snake.svg" alt="Snake animation" />
 
 ###
