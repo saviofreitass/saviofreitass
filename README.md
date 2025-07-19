@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou um estudante de ciência da computação, atualmente do 3° período.<br><br>Sou apaixonado pela área Tech e em resolver problemas.<br><br>Sempre em busca de novos desafios em que eu possa dar meu máximo para superá-los e conquistar o objetivo.</p>
+<p align="left">Sou um estudante de ciência da computação, atualmente do 4° período.<br><br>Sou apaixonado pela área Tech e em resolver problemas.<br><br>Sempre em busca de novos desafios em que eu possa dar meu máximo para superá-los e conquistar o objetivo.</p>
 
 ###
 
